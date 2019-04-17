@@ -17,6 +17,8 @@ Polarity measures how positive or how negative some text is (-1 negative, 0 neut
 
 Subjectivity = how much of an opinion a text is 
 
+
+## Optional Pie chart
 After getting reviews you can create a Pie chart diagram 
 
 python3 diagram.py
