@@ -20,5 +20,6 @@ Subjectivity = how much of an opinion a text is
 After getting reviews you can create a Pie chart diagram 
 python3 diagram.py
 
-result
+##Example result
+
 ![pie](https://user-images.githubusercontent.com/22845560/56292902-bdabfb00-6130-11e9-90ac-d3204e5f4a5e.png)
