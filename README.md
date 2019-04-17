@@ -15,4 +15,4 @@ Read greek reviews, translate to english and find sentiment analysis (using Patt
 
 Polarity measures how positive or how negative some text is (-1 negative, 0 neutral, 1 positive)
 
-Subjectivity = how much of an opinion a test is 
+Subjectivity = how much of an opinion a text is 
